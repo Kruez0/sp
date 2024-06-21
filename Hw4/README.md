@@ -16,7 +16,8 @@ The money we had, 100000, was updated either into 100010 (Deposited) or 99990 (W
 ## No Race Condition
 
 Norace means that the program is consistent regardless of the timing of the thread. No Race Program Explanation :   
-The program is the same. 
+The program is the same.   
+
     I have 100000 NTD and the program will deposit and withdraw 10 yuan at a time. The output of the program is as below:
 
 ```
