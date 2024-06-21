@@ -23,6 +23,7 @@ The program evaluates simple arithmetic expression language. It reads, parses an
 
 ## Results
 By running shell.py you can try and run the results as below:
+- Make a math expression and got an error when divided by zero.
 ```
 Program > 8/0
 Traceback (most recent call last): 
@@ -31,15 +32,20 @@ Runtime Error: Division by zero
 
 8/0
   ^
+```
+- Make a mathematical expression and got an error if it's not a number
+```
 Program > 30+a
 Illegal Character: 'a'
 File <stdin>, line 1
 
 30+a
    ^
+```
+- simple mathematics
+```
 Program > 3+5*(10-4)
 33
 Program > 7/2
 3.5
-Program >
 ```
