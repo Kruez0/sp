@@ -6,7 +6,7 @@ H5      ：參考老師
 H6      ：還沒做完，覺得很難   
 H7      ：Read but I havent make it.   
 H8      : 看一些，actually wanted to do it for qi zhong kao but then I got stuck ;-;   
-期中考   : 參考youtube,web   
+期中考   : 參考youtube,web  ,有一些自己做 like other math expressions
 
 # 課程：系統程式 -- 筆記、習題與報告
 
