@@ -1,12 +1,13 @@
 # Compiler
-> A friend of mine taught me! I understand now!
+> A friend of mine taught me! I understand now!   
+
 This project involves building a simple compiler to parse and interpret a subset of a programming language.
 To compile the source code:
 1. First open the terminal in Makefile
 2. Type mingw32-make
 3. Run the compiler with the test file ./compiler test/do.c
 
-### Dowhile Code Ex that was used:
+## Dowhile Code 
 ```
 x = 1;
 do {
@@ -14,7 +15,7 @@ do {
 } while (i < 10);
 ```
 
-### Syntax
+## Syntax
 
 ```
 PROG = STMTS
@@ -27,7 +28,7 @@ E = F (op E)*
 F = (E) | Number | Id
 ```
 
-### Results of Lexical, Token Dump and Parsing
+## Results 
 
 ```PS C:\CSIE\SEM 4\System Programming\sp\Week 2> mingw32-make
 >>
