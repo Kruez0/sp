@@ -8,16 +8,16 @@ Watched and understand, when it start doing other mathematical expressions, I tr
 The program evaluates simple arithmetic expression language. It reads, parses and evaluates expression. It is not a full compiler but it has the process of tokenizing, parsing and evaluating expressions!
 
 ## What I studied by Watching the vid:
-- Lexical Analysis
+- Lexical Analysis   
  Convert raw text input into tokens.
 
-- Syntax Analysis (Parsing)
+- Syntax Analysis (Parsing)   
  Convert tokens into an Abstract Syntax Tree (AST).
 
-- Interpretation
+- Interpretation   
  Evaluate the AST to compute the result of expressions.
 
-- Error Handling
+- Error Handling   
  Provide feedback if error was encountered.
 
 
