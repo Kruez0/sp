@@ -1,5 +1,5 @@
 # Pseudo Assembly Code
-> I understand, Chatgpt helped me understand it more when I don't understand. 
+> The other part was done by looking at laoshi's code. Chatgpt helped me understand it more when I don't understand. 
 ```
 PS C:\CSIE\SEM 4\System Programming\sp\Hw3>     
 >> gcc -w C4.c -o C4

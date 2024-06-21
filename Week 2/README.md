@@ -1,5 +1,5 @@
 # Compiler
-> This project was developed with the assistance of ChatGPT to help understand the process of building a  compiler.
+> This project was developed with the assistance of ChatGPT to help understand the process of building a compiler.
 
 This project involves building a simple compiler to parse and interpret a subset of a programming language.
 To compile the source code:
