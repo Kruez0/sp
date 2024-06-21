@@ -1,6 +1,5 @@
 # Compiler
-> This project was developed with the assistance of ChatGPT to help understand the process of building a compiler.
-
+> A friend of mine taught me! I understand now!
 This project involves building a simple compiler to parse and interpret a subset of a programming language.
 To compile the source code:
 1. First open the terminal in Makefile
