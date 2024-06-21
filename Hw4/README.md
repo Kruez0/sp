@@ -1,5 +1,5 @@
 # Multi-Threading by Producing Race Conditions
- > Done by looking at laoshi's code and VERY much understand what im doing!
+ > Done by myself and looking at laoshi's code and VERY much understand what im doing!
 ## Race Condition
 
 Race condition means that the software behavior are related to timing of events for example in this program we use thread execution. Due to the lack of synchronization, the threads can interfere with each other or accessed simultaneously by multiple threads, leading to unpredictable and incorrect results. 
