@@ -11,7 +11,7 @@ PS C:\CSIE\SEM 4\System Programming\sp\Hw4> gcc Race.c -o Race
 PS C:\CSIE\SEM 4\System Programming\sp\Hw4> ./Race
 Money=614757010
 ```
-The money we had , 100000, was updated either into 100010 (Deposited) or 99990 (Withdrawed). But because of the race condition, it is not updated correctly( either withdraw again or deposit again or neither). That is why after 1000000 loops the result is weird, 614757010.
+The money we had, 100000, was updated either into 100010 (Deposited) or 99990 (Withdrawed). But because of the race condition, it is not updated correctly( either withdraw again or deposit again or neither). That is why after 1000000 loops the result is weird, 614757010.
 
 ## No Race Condition
 
